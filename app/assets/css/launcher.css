@@ -3145,15 +3145,6 @@ input:checked + .toggleSwitchSlider:before {
     fill: #1b8dd4;
 }
 
-/* Instagram icon colors. */
-#instagramSVG:hover,
-#instagramURL:focus #instagramSVG {
-    fill: url('#instaFill')
-    /*fill: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); */
-}
-#instagramSVG:active {
-    fill: url('#instaFill')
-}
 
 /* Youtube icon colors. */
 #youtubeSVG:hover,
@@ -3632,17 +3623,8 @@ input:checked + .toggleSwitchSlider:before {
     height: 75%;
 }
 
-/* Server selection header. */
-#serverSelectHeader,
-#accountSelectHeader {
-    font-family: 'Avenir Medium';
-    font-size: 20px;
-    font-weight: bold;
-    color: #fff;
-    margin-bottom: 25px;
-}
 
-/* Wrapper div for the list of available servers. */
+/* Wrapper div for the list of  . */
 #serverSelectList,
 #accountSelectList {
     display: flex;

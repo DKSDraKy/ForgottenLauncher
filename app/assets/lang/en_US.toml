@@ -3,8 +3,6 @@ updateAvailableTooltip = "Update Available"
 usernamePlaceholder = "Username"
 usernameEditButton = "Edit"
 settingsTooltip = "Settings"
-serverStatus = "SERVER"
-serverStatusPlaceholder = "OFFLINE"
 mojangStatus = "MOJANG STATUS"
 mojangStatusTooltipTitle = "Services"
 mojangStatusNETitle = "Non&nbsp;Essential"
@@ -165,10 +163,6 @@ noAccountSelected = "No Account Selected"
 noSelection = "No Server Selected"
 loading = "Loading.."
 
-[js.landing.serverStatus]
-server = "SERVER"
-offline = "OFFLINE"
-players = "PLAYERS"
 
 [js.landing.systemScan]
 checking = "Checking system info.."
